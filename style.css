@@ -62,20 +62,8 @@ body{
     font-size: 18pt;
 
 }
-/* Stage-2 */
-
-.main-container{
-    overflow: auto;
-    overflow-x: hidden;
-    scroll-behavior: smooth;
-    scroll-margin: 3px;
-    width: 85%;
-    height: 380px;
-    margin: 100px auto;
-    border: 5px solid black;
-}
 /* date and announcement */
-.main-container .container-0{
+.container-0{
     width: 100%;
     height: 50px;
     border-bottom: 3px solid black;
@@ -90,7 +78,7 @@ body{
     margin-bottom: 20px;
     background-color: rgb(255, 255, 255);
 }
-.main-container h2{
+h2{
     text-align: center;
     font-family: Zabal Demo;
     font-size: 26pt;
