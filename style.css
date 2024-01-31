@@ -1,19 +1,19 @@
   @font-face {
     font-family: 'Sofia Pro';
-    src: local('All Entrance Nepal\sofiapro-light.otf') format('otf');
+    src: local('All Entrance Nepal/sofiapro-light.otf') format('otf');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Qanelas Soft';
-    src: local('All Entrance Nepal\QanelasSoftSemiBold.otf') format('otf');
+    src: local('All Entrance Nepal/QanelasSoftSemiBold.otf') format('otf');
     font-weight:200;
     font-style: normal;
   }
 @font-face {
-    font-family: 'Thunder';
-    src: url('All Entrance Nepal\ThunderSemiBoldLC.otf') format('otf');
-    font-weight: 200;
+    font-family: 'Thunders';
+    src: local('All Entrance Nepal/ThunderSemiBoldLC.otf') format('otf');
+    font-weight: normal;
     font-style: normal;
   }
 body{
@@ -27,7 +27,7 @@ body{
 .main-nav{
     display: flex;
     justify-content: space-between;
-    align-items:flex-end
+    align-items:flex-end;
 }
 /* logo */
 .main-nav img{
@@ -125,7 +125,7 @@ h2{
     text-align: center;
     font-family: Thunder;
     font-size: 16pt;
-    text-decoration:underline;
+    text-decoration: underline;
     margin-top: 5px;
 }
 /* Paragraph under heading */
@@ -137,7 +137,7 @@ h2{
 
 /* Footer */
 .Social_Media h4{
-    color: Thunder;
+
     font-size: 18pt;
 }
 
