@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 832.75 1303.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00668e;
+        font-family: Maiya, Maiya;
+        font-size: 1257.7px;
+      }
+
+      .cls-2 {
+        fill: #ffc44d;
+        font-family: CaveatBrush-Regular, 'Caveat Brush';
+        font-size: 262.33px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <text class="cls-1" transform="translate(0 943.28) scale(.95 1)"><tspan x="0" y="0">;</tspan></text>
+      <text class="cls-2" transform="translate(615.02 379.64) rotate(90) scale(.97 1)"><tspan x="0" y="0">masta</tspan></text>
+    </g>
+  </g>
+</svg>
