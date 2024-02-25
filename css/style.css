@@ -21,6 +21,7 @@ body {
 .main-nav {
   display: flex;
   align-items: center;
+  width: 100%;
 }
 /* Main Nav: logo */
 .main-nav img {
@@ -140,4 +141,17 @@ footer {
 
 .FB {
   width: 50px;
+}
+
+
+
+@media only screen and (max-width: 675px) {
+
+  .main-nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+
 }
